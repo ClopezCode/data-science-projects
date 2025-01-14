@@ -1,13 +1,23 @@
 # Data Science Projects 📊
 
-Bienvenido a mi repositorio de Data Science. Aquí encontrarás proyectos relacionados con:
-- Análisis de datos financieros.
-- Visualización de datos interactiva.
-- Modelos de predicción con Machine Learning.
+¡Bienvenido a mi repositorio de Data Science!  
+Aquí encontrarás proyectos enfocados en el análisis de datos, visualización y modelos de Machine Learning, con aplicaciones prácticas en finanzas y otras áreas.
 
-## Proyectos disponibles:
-1. **Análisis Financiero Básico**: Herramienta para visualizar tendencias del mercado.
-2. **Predicción de Precios**: Modelo de Machine Learning para predicciones a corto plazo.
+## 🛠️ Tecnologías principales:
+- Python (Pandas, NumPy, Scikit-learn)
+- Visualización: Matplotlib, Seaborn, Plotly
+- Machine Learning: Scikit-learn, TensorFlow
+- Gestión de datos: SQL, SQLite
 
-Explora cada proyecto y no dudes en contactarme para más información. 🚀
+## 📂 Proyectos destacados:
+1. **Análisis Financiero Básico**  
+   Herramienta para explorar tendencias del mercado, análisis técnico y visualización de datos históricos.  
+   - **Tecnologías**: Python, Pandas, Matplotlib  
 
+2. **Predicción de Precios de Mercado**  
+   Modelo de Machine Learning para predicciones de precios utilizando datos históricos.  
+   - **Tecnologías**: Python, Scikit-learn, TensorFlow  
+
+---
+
+¡Explora los proyectos y no dudes en contactarme para colaborar o compartir ideas! 🚀
