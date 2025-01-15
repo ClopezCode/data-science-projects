@@ -16,7 +16,11 @@ Aquí encontrarás proyectos enfocados en el análisis de datos, visualización 
 
 2. **Predicción de Precios de Mercado**  
    Modelo de Machine Learning para predicciones de precios utilizando datos históricos.  
-   - **Tecnologías**: Python, Scikit-learn, TensorFlow  
+   - **Tecnologías**: Python, Scikit-learn, TensorFlow
+     
+3. **Bot-Trading**  
+   Este proyecto es un bot de trading planificado y diseñado para analizar y ejecutar estrategias basadas en el comportamiento real del mercado. Utiliza **MetaTrader 5** y una cuenta demo del broker **Exness** para descargar datos históricos del par **EUR/USD** y evaluar el rendimiento de una estrategia cuantificada..  
+   - **Tecnologías**: Python, MetaTrader 5 (librería y plataforma), Pandas, Numpy, Tabulate
 
 ---
 
