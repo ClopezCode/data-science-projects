@@ -1,1 +1,5 @@
-"pandas\nnumpy\nscikit-learn\nmatplotlib\nseaborn" 
+pandas
+numpy
+scikit-learn
+matplotlib
+seaborn
