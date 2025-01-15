@@ -45,3 +45,6 @@ python -m venv mt5_env
 A veces, una instalación no se completa correctamente. Asegúrate de que las librerías requeridas esten instaladas en el entorno virtual:
 pip install MetaTrader5 pandas numpy
 pip install tabulate
+
+## 🚀 Ejecucion y resultado
+![alt text](pru.PNG)
